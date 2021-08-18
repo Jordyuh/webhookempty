@@ -1,0 +1,27 @@
+{
+  "username": "empty",
+  "avatar_url": "https://cdn.discordapp.com/attachments/876563139469135883/877649519603494922/original.png",
+  "embeds": [
+    {
+      "title": "abt",
+      "description": "abt empty",
+      "color": ffffff,
+      "fields": [
+        {
+          "name": "minimalistic citycore aes 
+2 owners
+est august 2021
+          "name": "Thanks!",
+          "value": "ur welcome"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://data.whicdn.com/images/342631136/original.jpg"
+      },
+      "image": {
+        "url": "https://data.whicdn.com/images/342631136/original.jpg"
+
+      }
+    }
+  ]
+}
